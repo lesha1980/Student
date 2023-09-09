@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-09T19:06:15.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 GLS/99.10.3369.70" etag="0ajpd3_Qc5YXvlKaaiXw" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-09T19:06:49.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 GLS/99.10.3369.70" etag="KF2pIQ7QAEx2p_CsVZfa" version="21.7.4" type="github">
   <diagram name="Страница — 1" id="AxD1RrtbTeHHpLmz0Yzi">
     <mxGraphModel dx="880" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,6 +149,17 @@
         </mxCell>
         <mxCell id="vrD5b6YgW24zmCBg4TpQ-44" value="Файловое хранилище" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="695" y="290" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vrD5b6YgW24zmCBg4TpQ-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.992;entryY=0.417;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.627;exitY=1.088;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vrD5b6YgW24zmCBg4TpQ-44" target="vrD5b6YgW24zmCBg4TpQ-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vrD5b6YgW24zmCBg4TpQ-46" value="SFTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vrD5b6YgW24zmCBg4TpQ-45">
+          <mxGeometry x="-0.005" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
