@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-09T19:18:07.288Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 GLS/99.10.3369.70" etag="1BFL9KIvooohSEvxVwah" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-09T19:26:01.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 GLS/99.10.3369.70" etag="OkgBFaGTkfsaZlbtJF9d" version="21.7.4" type="github">
   <diagram name="Страница — 1" id="AxD1RrtbTeHHpLmz0Yzi">
     <mxGraphModel dx="880" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,7 +161,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vrD5b6YgW24zmCBg4TpQ-47" value="Скрипт ежесуточного копирования. Логин и пароль открытый вид" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+        <mxCell id="vrD5b6YgW24zmCBg4TpQ-47" value="Скрипт ежесуточного копирования. Логин и пароль открытый вид" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="590" y="260" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vrD5b6YgW24zmCBg4TpQ-48" value="Требования к отказоустойчивости низкие" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
