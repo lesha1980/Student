@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-09T18:29:06.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 GLS/99.10.3369.70" etag="D7FElRR7faH_otR85RhU" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-09T18:30:11.511Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 GLS/99.10.3369.70" etag="MYqtyYW_NzGbOSGNmQ-a" version="21.7.4" type="github">
   <diagram name="Страница — 1" id="AxD1RrtbTeHHpLmz0Yzi">
     <mxGraphModel dx="880" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="vrD5b6YgW24zmCBg4TpQ-2" value="Внешняя сеть" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="110" y="40" width="550" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="vrD5b6YgW24zmCBg4TpQ-3" value="Веб-сервис" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="320" y="210" width="150" height="70" as="geometry" />
+        <mxCell id="vrD5b6YgW24zmCBg4TpQ-3" value="Веб-сервис&lt;br&gt;Windows Server 2018&lt;br&gt;Антивирус Касперского" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
